@@ -14,15 +14,19 @@ Roblox fighting games to improve my skills\
 
 ## Dev habilities
 ![Lua](https://img.shields.io/badge/Lua-044a63?style=for-the-badge&logo=Lua&logoColor=blue)
+![Love2D](https://img.shields.io/badge/Love2d-99058a?style=for-the-badge&logo=Love2&logoColor=blue)
+![Roblox](https://img.shields.io/badge/Roblox-044a63?style=for-the-badge&logo=Roblox&logoColor=blue) 
+
 ![Batch](https://img.shields.io/badge/Batch-%23000000.svg?style=for-the-badge&logo=GNUBash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Roblox](https://img.shields.io/badge/Roblox-044a63?style=for-the-badge&logo=Roblox&logoColor=blue)
-![Love2D](https://img.shields.io/badge/Love2d-99058a?style=for-the-badge&logo=Love2&logoColor=blue)
-![Markdown](https://img.shields.io/badge/Markdown-044a63?style=for-the-badge&logo=Markdown&logoColor=blue)
+![Markdown](https://img.shields.io/badge/Markdown-044a63?style=for-the-badge&logo=Markdown&logoColor=blue) 
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+
 ![Skript](https://img.shields.io/badge/Skript-%23000000.svg?style=for-the-badge&logo=Skript&logoColor=blue)
 
 ## Stats
