@@ -25,7 +25,9 @@ Roblox fighting games to improve my skills\
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Markdown](https://img.shields.io/badge/Markdown-044a63?style=for-the-badge&logo=Markdown&logoColor=blue) 
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyGame](https://img.shields.io/badge/pygame-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Tkinter](https://img.shields.io/badge/tkinter-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
 ![Skript](https://img.shields.io/badge/Skript-%23000000.svg?style=for-the-badge&logo=Skript&logoColor=blue)
 
