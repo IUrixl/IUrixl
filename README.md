@@ -6,11 +6,12 @@ My native language is spanish, so if you notice that my english is not that good
 
 ## Worked on
 I published here my [XySeries](https://github.com/IUrixl/XyMeshTool), a devtool for Love2d programmers. It's pretty interesting and it may be helpfull to you. \
-I coded and made [Rise a Beluga](https://www.roblox.com/games/9610831222/Small-Update-Raise-a-Beluga) a roblox game heavily inspired by [Rise a Floppa](https://www.roblox.com/games/9772878203/raise-a-floppa-2-4x-Cash)
+I coded and made [Rise a Beluga](https://www.roblox.com/games/9610831222/Small-Update-Raise-a-Beluga) a roblox game heavily inspired by [Rise a Floppa](https://www.roblox.com/games/9772878203/raise-a-floppa-2-4x-Cash)\
+I made [VasaltScript](https://github.com/IUrixl/VasaltScript)
 
 ## Working on
 Roblox fighting games to improve my skills\
-[VasaltScript](https://github.com/IUrixl/VasaltScript)
+BatchThreading
 
 ## Dev habilities
 ![Lua](https://img.shields.io/badge/Lua-044a63?style=for-the-badge&logo=Lua&logoColor=blue)
