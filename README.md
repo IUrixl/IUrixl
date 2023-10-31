@@ -10,8 +10,7 @@ I coded and made [Rise a Beluga](https://www.roblox.com/games/9610831222/Small-U
 I made [VasaltScript](https://github.com/IUrixl/VasaltScript)
 
 ## Working on
-Roblox fighting games to improve my skills\
-BatchThreading
+Aurum
 
 ## Dev habilities
 ![Lua](https://img.shields.io/badge/Lua-044a63?style=for-the-badge&logo=Lua&logoColor=blue)
