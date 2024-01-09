@@ -15,7 +15,6 @@ Aurum
 ## Dev habilities
 ![Lua](https://img.shields.io/badge/Lua-044a63?style=for-the-badge&logo=Lua&logoColor=blue)
 ![Love2D](https://img.shields.io/badge/Love2d-99058a?style=for-the-badge&logo=Love2&logoColor=blue)
-![Roblox](https://img.shields.io/badge/Roblox-044a63?style=for-the-badge&logo=Roblox&logoColor=blue) 
 
 ![Batch](https://img.shields.io/badge/Batch-%23000000.svg?style=for-the-badge&logo=GNUBash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
@@ -26,8 +25,6 @@ Aurum
 ![Markdown](https://img.shields.io/badge/Markdown-044a63?style=for-the-badge&logo=Markdown&logoColor=blue) 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyGame](https://img.shields.io/badge/pygame-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Tkinter](https://img.shields.io/badge/tkinter-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
 ![Skript](https://img.shields.io/badge/Skript-%23000000.svg?style=for-the-badge&logo=Skript&logoColor=blue)
 
