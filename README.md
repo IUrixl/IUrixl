@@ -4,27 +4,20 @@ I'm a 16 years old guy who loves programming and everything related to it.
 I started with this love with the computers thing since i was 8 years old.
 My native language is spanish, so if you notice that my english is not that good now you know why.
 
-## Worked on
-I published here my [XySeries](https://github.com/IUrixl/XyMeshTool), a devtool for Love2d programmers. It's pretty interesting and it may be helpfull to you. \
-I made [VasaltScript](https://github.com/IUrixl/VasaltScript).\
-I made [Lithium](https://github.com/IUrixl/Lithium). \
-Roblox games & comissions.
-
 ## Dev habilities
 ![Lua](https://img.shields.io/badge/Lua-044a63?style=for-the-badge&logo=Lua&logoColor=blue)
+![Luau](https://img.shields.io/badge/Luau-044a63?style=for-the-badge&logo=Roblox&logoColor=blue)
 ![Love2D](https://img.shields.io/badge/Love2d-99058a?style=for-the-badge&logo=Love2&logoColor=blue)
+![Discordia, discord.js wrapper for luvit](https://img.shields.io/badge/Discordia-blue?style=for-the-badge&logo=discord&logoColor=white)
+![Luvit](https://img.shields.io/badge/Luvit-blue?style=for-the-badge&logo=lua&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+
+![Rust](https://img.shields.io/badge/Rust-red?style=for-the-badge&logo=Rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ![Batch](https://img.shields.io/badge/Batch-%23000000.svg?style=for-the-badge&logo=GNUBash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Markdown](https://img.shields.io/badge/Markdown-044a63?style=for-the-badge&logo=Markdown&logoColor=blue) 
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-![Skript](https://img.shields.io/badge/Skript-%23000000.svg?style=for-the-badge&logo=Skript&logoColor=blue)
 
 ## Stats
 ![](https://github-readme-stats.vercel.app/api?username=IUrixl&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
