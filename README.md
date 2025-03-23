@@ -1,8 +1,10 @@
 # IUrixl
 Hello, my nickname is IUrixl, but you can call me Uriel (since it's my real name lol).
-I'm a 16 years old guy who loves programming and everything related to it. 
+I'm a 16 years old guy who loves programming and everything related to it.
 I started with this love with the computers thing since i was 8 years old.
-My native language is spanish, so if you notice that my english is not that good now you know why.
+My native language is spanish, so if you notice that my english is not that good now you know why.\
+
+My favourite languages are Lua ( As you could have noticed ) and Rust!
 
 ## Dev habilities
 ![Lua](https://img.shields.io/badge/Lua-044a63?style=for-the-badge&logo=Lua&logoColor=blue)
