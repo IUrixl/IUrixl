@@ -21,13 +21,13 @@ Currently obsessed with Lua, Rust and Batch projects, just for the fun of it :))
 #### Project: Spike (Working title, unreleased)
 Strategic Shooting game csgo-like on roblox, currently being developed by fellow development team (me & Aeria). Its a project intended to improve our skills and to have fun while doing it.
 #### SapphireGL (Unreleased, still on development)
-Game engine for rust to create games that runs on the terminal, it supports 2d rendering and 3d rendering using the orthopedic projection. Currently being worked on.
+Game engine on Rust to create games that runs on the terminal, it supports 2d rendering and 3d rendering using the orthopedic projection. Intended to be the definitive project related to my previous work LithiumGL and Lithium3D.
 #### Kova (Unreleased, still on development)
 Transpiled-Compiled programming language coded in batch.
 #### LithiumGL (Unreleased, fully developed)
 LithiumGL is a small 3D rendering tool for Batch. It renders 3D meshes within the CMD window, the project itself not intendend to be big but rather for the love of the game. Its an advanced and polished version of my old and already published project Lithium3D that abused ANSII escape sequences and was very laggy. 
 
-LithiumGL has its own 3dmesh files that can be loaded into the render tool, it uses orthopedic projection and bresenhman algorithm adaptation to render the lines. Still, this project is unfinished as i wanted to add more optimization and abstraction layers to it but instead i moved to rust to make a better and faster project with the same idea.
+LithiumGL has its own 3dmesh files that can be loaded into the rendering toolchain, it uses orthopedic projection and bresenhman algorithm adaptation. Still, this project is unfinished as i wanted to add more optimization and abstraction layers to it but instead i moved to Rust to started developing a better and faster project with the same concept.
 ### Hired to
 #### Small roblox hangout game
 I've paid worked for multiple games within the roblox platform, but the one i enjoyed working in the most was this hangout. The reason of why it was one of my best experiences as a paid comission was due to the great head developers that hired me and the freedom and support they gave to me. Within this project i was in charge of scripting everything, from basic and plain dataservices to more complex systems that were all connected with each other.
