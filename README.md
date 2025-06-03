@@ -18,8 +18,6 @@ Currently obsessed with Lua, Rust and Batch projects, just for the fun of it :))
 
 ## Portfolio
 ### Individual
-#### Project: Spike (Working title, unreleased)
-Strategic Shooting game csgo-like on roblox, currently being developed by fellow development team (me & Aeria). Its a project intended to improve our skills and to have fun while doing it.
 #### SapphireGL (Unreleased, still on development)
 Game engine on Rust to create games that runs on the terminal, it supports 2d rendering and 3d rendering using the orthopedic projection. Intended to be the definitive project related to my previous work LithiumGL and Lithium3D.
 #### Kova (Unreleased, still on development)
