@@ -16,22 +16,6 @@ Currently obsessed with Lua, Rust and Batch projects, just for the fun of it :))
 ![Batch](https://img.shields.io/badge/Batch-%23000000.svg?style=for-the-badge&logo=GNUBash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
 
-## Portfolio
-### Individual
-#### SapphireGL (Unreleased, still on development)
-Game engine on Rust to create games that runs on the terminal, it supports 2d rendering and 3d rendering using the orthopedic projection. Intended to be the definitive project related to my previous work LithiumGL and Lithium3D.
-#### Kova (Unreleased, still on development)
-Transpiled-Compiled programming language coded in batch.
-#### LithiumGL (Unreleased, fully developed)
-LithiumGL is a small 3D rendering tool for Batch. It renders 3D meshes within the CMD window, the project itself not intendend to be big but rather for the love of the game. Its an advanced and polished version of my old and already published project Lithium3D that abused ANSII escape sequences and was very laggy. 
-
-LithiumGL has its own 3dmesh files that can be loaded into the rendering toolchain, it uses orthopedic projection and bresenhman algorithm adaptation. Still, this project is unfinished as i wanted to add more optimization and abstraction layers to it but instead i moved to Rust to started developing a better and faster project with the same concept.
-### Hired to
-#### Small roblox hangout game
-I've paid worked for multiple games within the roblox platform, but the one i enjoyed working in the most was this hangout. The reason of why it was one of my best experiences as a paid comission was due to the great head developers that hired me and the freedom and support they gave to me. Within this project i was in charge of scripting everything, from basic and plain dataservices to more complex systems that were all connected with each other.
-#### Others
-As said, ive also worked for comissions and bug fixing in multiple others games.
-
 ## Stats
 ![](https://github-readme-stats.vercel.app/api?username=IUrixl&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 <!--
