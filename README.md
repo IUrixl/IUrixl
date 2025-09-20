@@ -2,7 +2,8 @@
 Yo!\
 Born in Spain, 2008, started on the computer stuff at the age of 8. Learnt all by myself, constantly improving my skills and working on new stuff!
 
-Currently obsessed with Lua, Rust and Batch projects, just for the fun of it :))
+Computer Graphics developer.
+Programming Language Theorist.
 
 ## Skill Sumary
 ![Lua](https://img.shields.io/badge/Lua-044a63?style=for-the-badge&logo=Lua&logoColor=blue)
