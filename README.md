@@ -1,5 +1,5 @@
 # IUrixl
-Born in Spain, 2008, began in the computer-related world at the early age of 8, with a strong passion for game development. Learnt and polished my skills by myself with over +7 years of practice. Mainly focused on backend, developing and contributing to active compilers, and computer graphics development. I have worked on over +40 Roblox commissions, of which 85% were small bug fixes and implementations, and the rest were entire games. I am currently seeking a position on a game development team.\
+Born in Spain, 2008, began in the computer-related world at the early age of 8, with a strong passion for game development. Learnt and polished my skills by myself with over +7 years of practice. Mainly focused on backend, developing and contributing to active compilers, and computer graphics development. I have worked on over +40 Roblox commissions, of which 85% were small bug fixes and implementations, and the rest were entire games. I am currently seeking a position on a game development team. \
 
 Developing a cross-platform (Linux-Window) game engine on Rust as a hobby in my free time, as well as a transpiled and compiled language in Batch (for the fun of it), which I plan to publicly release once I achieve a stable version of both projects.
 
