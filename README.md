@@ -1,6 +1,8 @@
 # IUrixl
 Yo!\
-Born in Spain, 2008, started on the computer stuff at the age of 8. Learnt all by myself, constantly improving my skills and working on new stuff!
+Born in Spain, 2008. Started on the computer stuff at the age of 8. Learnt everything i know by myself, constantly improving my skills and working on new stuff. My batch projects are just for the fun of it!\
+Worked in over +40 roblox comissions, from small ones to entire games developed.\
+Developing a Crossplatform (Linux-Windows) game engine on rust!\
 
 Computer Graphics developer.
 Programming Language Theorist.
