@@ -1,13 +1,9 @@
 # IUrixl
-Yo!\
-Born in Spain, 2008. Started on the computer stuff at the age of 8. Learnt everything i know by myself, constantly improving my skills and working on new stuff. My batch projects are just for the fun of it!\
-Worked in over +40 roblox comissions, from small ones to entire games developed.\
-Developing a Crossplatform (Linux-Windows) game engine on rust!\
+Born in Spain, 2008, began in the computer-related world at the early age of 8, with a strong passion for game development. Learnt and polished my skills by myself with over +7 years of practice. Mainly focused on backend, developing and contributing to active compilers, and computer graphics development. I have worked on over +40 Roblox commissions, of which 85% were small bug fixes and implementations, and the rest were entire games. I am currently seeking a position on a game development team.\
 
-Computer Graphics developer.
-Programming Language Theorist.
+Developing a cross-platform (Linux-Window) game engine on Rust as a hobby in my free time, as well as a transpiled and compiled language in Batch (for the fun of it), which I plan to publicly release once I achieve a stable version of both projects.
 
-## Skill Sumary
+## Skill Summary
 ![Lua](https://img.shields.io/badge/Lua-044a63?style=for-the-badge&logo=Lua&logoColor=blue)
 ![Luau](https://img.shields.io/badge/Luau-044a63?style=for-the-badge&logo=Roblox&logoColor=blue)
 ![Love2D](https://img.shields.io/badge/Love2d-99058a?style=for-the-badge&logo=Love2&logoColor=blue)
@@ -17,10 +13,7 @@ Programming Language Theorist.
 ![Rust](https://img.shields.io/badge/Rust-red?style=for-the-badge&logo=Rust&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Batch](https://img.shields.io/badge/Batch-%23000000.svg?style=for-the-badge&logo=GNUBash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
 
-## Stats
-![](https://github-readme-stats.vercel.app/api?username=IUrixl&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 <!--
 **IUrixl/IUrixl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
